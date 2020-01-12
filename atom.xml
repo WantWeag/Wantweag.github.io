@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://weag.github.io</id>
+    <id>https://wantweag.github.io</id>
     <title>Weag</title>
-    <updated>2020-01-12T10:22:41.233Z</updated>
+    <updated>2020-01-12T10:27:29.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://weag.github.io"/>
-    <link rel="self" href="https://weag.github.io/atom.xml"/>
+    <link rel="alternate" href="https://wantweag.github.io"/>
+    <link rel="self" href="https://wantweag.github.io/atom.xml"/>
     <subtitle>老王大步流的日常记录</subtitle>
-    <logo>https://weag.github.io/images/avatar.png</logo>
-    <icon>https://weag.github.io/favicon.ico</icon>
+    <logo>https://wantweag.github.io/images/avatar.png</logo>
+    <icon>https://wantweag.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Weag</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://weag.github.io/post/test</id>
-        <link href="https://weag.github.io/post/test">
+        <id>https://wantweag.github.io/post/test</id>
+        <link href="https://wantweag.github.io/post/test">
         </link>
         <updated>2020-01-12T10:18:14.000Z</updated>
         <content type="html"><![CDATA[<p>###test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://weag.github.io/post/hello-gridea</id>
-        <link href="https://weag.github.io/post/hello-gridea">
+        <id>https://wantweag.github.io/post/hello-gridea</id>
+        <link href="https://wantweag.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
