@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wantweag.github.io</id>
     <title>Weag</title>
-    <updated>2020-02-09T08:26:42.825Z</updated>
+    <updated>2020-02-09T10:08:58.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wantweag.github.io"/>
     <link rel="self" href="https://wantweag.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://wantweag.github.io/images/avatar.png</logo>
     <icon>https://wantweag.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Weag</rights>
+    <entry>
+        <title type="html"><![CDATA[乌合之众]]></title>
+        <id>https://wantweag.github.io/post/wu-he-zhi-zhong</id>
+        <link href="https://wantweag.github.io/post/wu-he-zhi-zhong">
+        </link>
+        <updated>2020-02-09T09:12:36.000Z</updated>
+        <content type="html"><![CDATA[<p>近期阅读了乌合之众这本书，书中主要解释“群体”的特点以及个人和群体间的差异、如何造成群体特征的原因、如何控制群体</p>
+<p>-介绍<br>
+古斯塔夫·勒庞，法国著名社会心理学家，群体心理学的创始人。《乌合之众》出版于1895年</p>
+<p>当人们有同样的心理诉求，就容易形成群体。而当个人一旦形成群体，就会出现智力下降、易于冲动和自信倍增的心理特征。群体当中的领袖，必须是一个意志坚定的人，一个能够提出断言的人——通过对断言的不断重复，以及情绪的感染，去引导群体。</p>
+<p>-群体的共通点：群体的智力往往低于个人的智力</p>
+<ul>
+<li>本能优先：群体的行为第一时间不受大脑控制，以本能发泄自己的欲望；</li>
+<li>互相传染</li>
+<li>易受暗示</li>
+<li>缺乏理性</li>
+</ul>
+<p>-控制群体的手段</p>
+<ul>
+<li>断言：不需论证，不需推理，只给判断。坚定</li>
+<li>重复：谎言说了一千遍就成真的</li>
+<li>传染</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://wantweag.github.io/post/test</id>
