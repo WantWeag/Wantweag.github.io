@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T10:25:50.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.6.8" etag="BoNSD4UpA4W04YwCvfuM" type="github"><diagram id="FcOq_Kxh3koTcYmeZbBO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-17T12:39:28.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="vKvUBchSBB4xLfeFCMU6" version="15.6.8" type="github">
+  <diagram id="FcOq_Kxh3koTcYmeZbBO" name="Page-1">
+    <mxGraphModel dx="983" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-1" value="报警流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-2" target="Ki6M1PpDBsG0U-rmGdPF-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248.5" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-22" value="通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ki6M1PpDBsG0U-rmGdPF-14">
+          <mxGeometry x="0.1849" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-2" value="硬件发生报警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="84.75" y="107" width="104" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-17" value="当班值班员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#66B2FF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+          <mxGeometry x="127" y="223" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-18" value="当班管理员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#66B2FF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+          <mxGeometry x="233" y="223" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-19" value="当班超级管理员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#66B2FF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+          <mxGeometry x="348" y="223" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-20" value="不当班值班员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1A1A1A;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+          <mxGeometry x="127" y="342" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-21" value="不当班管理员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1A1A1A;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
+          <mxGeometry x="233" y="342" width="19.5" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
