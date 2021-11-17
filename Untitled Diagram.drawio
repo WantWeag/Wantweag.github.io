@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-17T12:39:28.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="vKvUBchSBB4xLfeFCMU6" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-17T12:45:28.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="92Y6T62x2LKqbWzoLr9-" version="15.6.8" type="github">
   <diagram id="FcOq_Kxh3koTcYmeZbBO" name="Page-1">
-    <mxGraphModel dx="983" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,23 +17,82 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-2" value="硬件发生报警" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-2" value="硬件发生报警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="84.75" y="107" width="104" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-24" value="未及时前往，&lt;br&gt;5分钟通知" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.163;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-17" target="Ki6M1PpDBsG0U-rmGdPF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-17" target="Ki6M1PpDBsG0U-rmGdPF-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ki6M1PpDBsG0U-rmGdPF-17" value="当班值班员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#66B2FF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
           <mxGeometry x="127" y="223" width="19.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.037;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-18" target="Ki6M1PpDBsG0U-rmGdPF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-26" value="未及时前往，&lt;br&gt;5分钟通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ki6M1PpDBsG0U-rmGdPF-25">
+          <mxGeometry x="-0.2054" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ki6M1PpDBsG0U-rmGdPF-18" value="当班管理员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#66B2FF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="233" y="223" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="319" y="223" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ki6M1PpDBsG0U-rmGdPF-19" value="当班超级管理员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#66B2FF;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="348" y="223" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="513" y="223" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ki6M1PpDBsG0U-rmGdPF-20" value="不当班值班员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1A1A1A;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="127" y="342" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="319" y="130" width="19.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ki6M1PpDBsG0U-rmGdPF-21" value="不当班管理员" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1A1A1A;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;" vertex="1" parent="1">
-          <mxGeometry x="233" y="342" width="19.5" height="50" as="geometry" />
+          <mxGeometry x="513" y="125" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-27" target="Ki6M1PpDBsG0U-rmGdPF-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-27" value="点击前往现场" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="84.75" y="375" width="104" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-29" target="Ki6M1PpDBsG0U-rmGdPF-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-29" target="Ki6M1PpDBsG0U-rmGdPF-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-29" value="进行现场反馈" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="84.75" y="486" width="104" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-31" target="Ki6M1PpDBsG0U-rmGdPF-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297.6896551724137" y="344.48275862068965" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-31" target="Ki6M1PpDBsG0U-rmGdPF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-36" value="电话同时通知区域的人" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ki6M1PpDBsG0U-rmGdPF-34">
+          <mxGeometry x="-0.3576" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" target="Ki6M1PpDBsG0U-rmGdPF-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="482" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Ki6M1PpDBsG0U-rmGdPF-31" target="Ki6M1PpDBsG0U-rmGdPF-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-31" value="反馈为：火警（初期和熊熊大火）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="276.75" y="486" width="104" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-37" value="再次反馈已解决" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="473" y="486" width="104" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Ki6M1PpDBsG0U-rmGdPF-43" value="结束" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="84.75" y="586" width="108" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
