@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T03:51:36.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="hEYn2JN58hSr2T80QySI" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T03:52:53.423Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Ch7fVqCFwaLARwPD4NWu" version="15.8.2" type="github">
   <diagram id="9CLesrmSoFptZDxhMz3D" name="Page-1">
     <mxGraphModel dx="983" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,12 +72,12 @@
           <mxGeometry x="180" y="229" width="328" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-24" value="告警中心" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="349" y="194" width="73" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="JV1jPT64m68JZ7gGfdCl-25" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="264" y="194" width="73" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JV1jPT64m68JZ7gGfdCl-26" value="内容管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-25" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="435" y="194" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-26" value="CMS" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="180" y="303" width="73" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-27" value="设备运维：设备周期管理、物联网卡管理、设备调试" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
@@ -96,7 +96,7 @@
           <mxGeometry x="263" y="303" width="73" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-34" value="人员配置" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="433" y="194" width="73" height="28" as="geometry" />
+          <mxGeometry x="348" y="194" width="73" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-35" value="..." style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="435" y="303" width="73" height="28" as="geometry" />
