@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T06:13:42.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="KZhKWfgswFdexlJxglaA" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T07:01:20.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="WVTUYy1vSF8G3Ao1O1eb" version="15.8.2" type="github">
   <diagram id="9CLesrmSoFptZDxhMz3D" name="Page-1">
-    <mxGraphModel dx="1188" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="838" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           <mxGeometry x="273" y="361" width="390" height="235" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-3" value="庇虎-客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="69" y="73" width="392" height="107" as="geometry" />
+          <mxGeometry x="69" y="35" width="392" height="145" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -65,7 +65,7 @@
         <mxCell id="JV1jPT64m68JZ7gGfdCl-22" value="设备注册" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="303" y="403" width="73" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JV1jPT64m68JZ7gGfdCl-23" value="项目运维：项目配置、规则引擎、项目分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-23" value="项目运维：项目配置、规则引擎、项目分析、进度跟进" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="303" y="474" width="328" height="28" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-24" value="告警中心" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
@@ -99,7 +99,7 @@
           <mxGeometry x="69" y="192" width="392" height="107" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-38" value="掌上庇虎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="475" y="73" width="392" height="107" as="geometry" />
+          <mxGeometry x="475" y="36" width="392" height="144" as="geometry" />
         </mxCell>
         <mxCell id="JV1jPT64m68JZ7gGfdCl-39" value="application n...." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="475" y="192" width="392" height="107" as="geometry" />
@@ -107,11 +107,56 @@
         <mxCell id="JV1jPT64m68JZ7gGfdCl-40" value="载体：app、web、大屏、小程序、服务号" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="91" y="140" width="345" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JV1jPT64m68JZ7gGfdCl-41" value="报警管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="91" y="102" width="73" height="28" as="geometry" />
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-41" value="态势监测" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="91" y="70" width="73" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="JV1jPT64m68JZ7gGfdCl-42" value="故障管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="172" y="102" width="73" height="28" as="geometry" />
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-42" value="事件推送" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="181" y="70" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-44" value="隐患管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="272" y="70" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-45" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="362" y="70" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-46" value="数据分析" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="91" y="105" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-47" value="硬件管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="181" y="105" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-48" value="任务流设置、权限设置" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="271" y="105" width="164" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-49" value="事件推送" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="91" y="256" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-50" value="硬件运维：安装、自检、更换" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="91" y="221" width="345" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-51" value="处置" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="181" y="256" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-52" value="人员管理" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="272" y="256" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-53" value="考勤" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="363" y="256" width="73" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-54" value="装备" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="499" y="82" width="113" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-55" value="车辆" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="620" y="82" width="115" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-56" value="接处警" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="743" y="82" width="104" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-57" value="权限架构、工作流、审批流" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="498" y="119" width="350" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="JV1jPT64m68JZ7gGfdCl-58" value="........." style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="498" y="238" width="350" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
