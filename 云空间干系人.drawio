@@ -1,1 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T09:05:13.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="17.4.0" etag="Q6n40-5nhZjpUvJh_NpV" type="github"><diagram id="8Rhb8xnB9mlFDztukAai">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-01T15:01:55.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="sWwoQHmqUceazQtWlhxE" version="17.4.0" type="github">
+  <diagram id="8Rhb8xnB9mlFDztukAai" name="Page-1">
+    <mxGraphModel dx="1694" dy="984" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-2" value="资产管理部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="362" width="120" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-3" value="运营部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="114" y="1044" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-20" value="上报经营指标/资产.." style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dmAMXoHCeC_gb51RqrAa-4" target="dmAMXoHCeC_gb51RqrAa-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="207" />
+              <mxPoint x="135" y="207" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dmAMXoHCeC_gb51RqrAa-4" target="dmAMXoHCeC_gb51RqrAa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="297" />
+              <mxPoint x="73" y="897" />
+              <mxPoint x="114" y="897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-24" value="委托" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dmAMXoHCeC_gb51RqrAa-23">
+          <mxGeometry x="-0.162" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dmAMXoHCeC_gb51RqrAa-4" target="dmAMXoHCeC_gb51RqrAa-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="281" y="297" />
+              <mxPoint x="281" y="136" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-27" value="委托核实监管" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dmAMXoHCeC_gb51RqrAa-26">
+          <mxGeometry x="0.1721" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-4" value="集团" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="105" y="257" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-5" value="运营公司" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="114" y="859" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-6" value="资管专员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="365" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-7" value="运营专员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1053" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-8" value="资产管理部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="114" y="969" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-10" value="财务部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="440" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-11" value="财务部会计&lt;br&gt;（资产估值...）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="453" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-12" value="安全专员&lt;br&gt;（巡检）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="439" y="365" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-13" value="物业部物业专员&lt;br&gt;（巡检）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1140" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-14" value="角色与集团组成差不多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="993" width="130" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-17" value="物业部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="114" y="1133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-18" value="资管部长&lt;br&gt;（监管）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="365" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dmAMXoHCeC_gb51RqrAa-19" target="dmAMXoHCeC_gb51RqrAa-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="73" y="133" />
+              <mxPoint x="73" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-22" value="托管" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dmAMXoHCeC_gb51RqrAa-21">
+          <mxGeometry x="-0.1765" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-19" value="国资委" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="93" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-25" value="事务所" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="96" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-28" value="审计部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="516" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-29" value="财务经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="527" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-30" value="审计经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="527" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-31" value="纪委监察部&lt;br&gt;（租赁合法合规）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="603" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-32" value="纪委检查部长" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="614" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-33" value="科员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="614" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-34" value="招商部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="695" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-35" value="策划经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="701" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-37" value="策划专员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="701" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-38" value="招商部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="114" y="1223" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-39" value="策划经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1230" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-40" value="策划专员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="356" y="1230" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-41" value="招商经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="701" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-42" value="招商专员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="701" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-43" value="招商经理" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="451" y="1229" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-44" value="招商专员&lt;br&gt;（合同签约）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="542" y="1229" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-45" value="工程部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="105" y="774" width="120" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-46" value="工程人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="782" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-47" value="物业业务员&lt;br&gt;（收缴）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1140" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-48" value="营销总监" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="701" width="30" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="dmAMXoHCeC_gb51RqrAa-50" value="出纳&lt;br&gt;（登记并管理台账）" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="451" width="30" height="42" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
